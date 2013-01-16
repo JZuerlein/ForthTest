@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c312c0f7-da5f-4289-8f35-562a6b854bf1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/products/new.html.erb" afterPath="$PROJECT_DIR$/app/views/products/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
     </list>
     <ignored path="ForthTest.iws" />
@@ -91,19 +91,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="72" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
+            <state line="25" column="50" selection-start="603" selection-end="603" vertical-scroll-proportion="0.8499157">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/products/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="33" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+            <state line="5" column="7" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.5">
               <folding />
             </state>
           </provider>
@@ -134,8 +134,8 @@
         <option value="$PROJECT_DIR$/db/migrate/20130113223153_create_products.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/models/product.rb" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/app/views/products/new.html.erb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -656,7 +656,19 @@
       <created>1358358809924</created>
       <updated>1358358809924</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="more of the same.">
+      <created>1358362944708</created>
+      <updated>1358362944708</updated>
+    </task>
+    <task id="LOCAL-00012" summary="more of the same.444">
+      <created>1358363380596</created>
+      <updated>1358363380596</updated>
+    </task>
+    <task id="LOCAL-00013" summary="more of the same.44488888">
+      <created>1358363760507</created>
+      <updated>1358363760507</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -738,7 +750,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the database name for the development database. 2nd attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="more of the same.44488888" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -757,6 +769,9 @@
     <MESSAGE value="I'm gonna roll back&#10;" />
     <MESSAGE value="Updated the database name for the development database." />
     <MESSAGE value="Updated the database name for the development database. 2nd attempt" />
+    <MESSAGE value="more of the same." />
+    <MESSAGE value="more of the same.444" />
+    <MESSAGE value="more of the same.44488888" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -861,16 +876,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/app/views/products/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="72" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
+        <state line="5" column="7" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/products/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="33" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+        <state line="25" column="50" selection-start="603" selection-end="603" vertical-scroll-proportion="0.8499157">
           <folding />
         </state>
       </provider>
