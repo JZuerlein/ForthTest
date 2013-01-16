@@ -15,7 +15,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: ForthTest_dev
+  database: FifthTest_development
   pool: 5
   username: postgres
   password: postgres
@@ -45,7 +45,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: ForthTest_test
+  database: FifthTest_test
   pool: 5
   username: postgres
   password: postgres
@@ -55,7 +55,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: ForthTest_production
+  database: FifthTest_production
   pool: 5
   username: postgres
   password: postgres
