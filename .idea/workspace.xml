@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c312c0f7-da5f-4289-8f35-562a6b854bf1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ForthTest.iml" afterPath="$PROJECT_DIR$/.idea/ForthTest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
     </list>
     <ignored path="ForthTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,30 +52,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/products/_form.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1358117695092" expanded="true" signature="23:806" placeholder="do ... end" />
-                <marker date="1358117695092" expanded="true" signature="38:347" placeholder="if ... end" />
-                <marker date="1358117695092" expanded="true" signature="96:337" placeholder="..." />
-                <marker date="1358117695092" expanded="true" signature="214:326" placeholder="..." />
-                <marker date="1358117695092" expanded="true" signature="260:312" placeholder="do ... end" />
-                <marker date="1358117695092" expanded="true" signature="372:444" placeholder="..." />
-                <marker date="1358117695092" expanded="true" signature="466:549" placeholder="..." />
-                <marker date="1358117695092" expanded="true" signature="571:651" placeholder="..." />
-                <marker date="1358117695092" expanded="true" signature="673:745" placeholder="..." />
-                <marker date="1358117695092" expanded="true" signature="769:798" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="18" column="88" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="28" selection-start="58" selection-end="58" vertical-scroll-proportion="0.072748266">
               <folding />
             </state>
           </provider>
@@ -110,10 +97,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="30" selection-start="642" selection-end="642" vertical-scroll-proportion="0.49578413">
+            <state line="17" column="30" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -151,11 +138,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/db/migrate/20130113223153_create_products.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/models/product.rb" />
         <option value="$PROJECT_DIR$/app/views/products/new.html.erb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -740,8 +727,8 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15314835" sideWeight="0.6710098" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5133405" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.48292422" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5133405" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.48292422" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.48932764" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -839,23 +826,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1358117695092" expanded="true" signature="23:806" placeholder="do ... end" />
-            <marker date="1358117695092" expanded="true" signature="38:347" placeholder="if ... end" />
-            <marker date="1358117695092" expanded="true" signature="96:337" placeholder="..." />
-            <marker date="1358117695092" expanded="true" signature="214:326" placeholder="..." />
-            <marker date="1358117695092" expanded="true" signature="260:312" placeholder="do ... end" />
-            <marker date="1358117695092" expanded="true" signature="372:444" placeholder="..." />
-            <marker date="1358117695092" expanded="true" signature="466:549" placeholder="..." />
-            <marker date="1358117695092" expanded="true" signature="571:651" placeholder="..." />
-            <marker date="1358117695092" expanded="true" signature="673:745" placeholder="..." />
-            <marker date="1358117695092" expanded="true" signature="769:798" placeholder="..." />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="do ... end" />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="if ... end" />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="do ... end" />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1358117695092" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="72" selection-start="219" selection-end="219" vertical-scroll-proportion="0.41030195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/product.rb">
@@ -868,13 +850,6 @@
     <entry file="file://$PROJECT_DIR$/config/environment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="88" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -921,7 +896,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="30" selection-start="642" selection-end="642" vertical-scroll-proportion="0.49578413">
+        <state line="17" column="30" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="88" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="28" selection-start="58" selection-end="58" vertical-scroll-proportion="0.072748266">
           <folding />
         </state>
       </provider>
